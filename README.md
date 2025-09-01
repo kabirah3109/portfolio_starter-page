@@ -1,3 +1,3 @@
-My 30-day coding journey
+My 30-days coding journey
 
 Hello! 👋 I'm Kabirah.
